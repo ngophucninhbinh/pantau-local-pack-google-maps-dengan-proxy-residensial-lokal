@@ -1,6 +1,5 @@
 # Pantau Local Pack & Google Maps dengan proxy residensial lokal  
 
-🌱 Jelajahi Sekarang!  
 
 Dapatkan hasil pencarian lokal (Local Pack) dan tampilan Google Maps yang lebih akurat dengan menggunakan proxy residensial. Solusi ideal untuk SEO lokal, uji coba kampanye Google Business, dan optimasi visibilitas berdasarkan area geografis tertentu.  
 
